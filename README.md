@@ -33,7 +33,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/Manusia112/ribotv1
 ```
 
 ## Install the dependencies:
@@ -41,7 +41,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd AR15BOT
+> cd ribotv1
 > bash install.sh
 ```
 
